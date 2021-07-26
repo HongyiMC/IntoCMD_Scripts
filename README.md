@@ -26,4 +26,5 @@ written in JaveScript
 7. Go to world settings
 8. enable IntoCMD Scripts under "Behavior Packs"
 9. Make sure "Enable GameTest Framework" is set to Enabled
-10. Boot up world.
+10. Boot up world
+11. 
