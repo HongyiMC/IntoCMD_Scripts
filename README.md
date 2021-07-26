@@ -1,5 +1,5 @@
 # IntoCMD_Scripts
-## Server Scripts for IntoCMD (https://http://mc.intocmd.com/)
+## Server Scripts for IntoCMD (https://mc.intocmd.com/)
 
 written in JaveScript
 
