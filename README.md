@@ -14,7 +14,7 @@ written in JaveScript
 6. boot up the server
 
 
-## How to use on minecraft client
+## How to use on Minecraft client
 
 
 1. Exit Minecraft
